@@ -14,6 +14,6 @@
   ],
   "env": {
     "TMDB_API_KEY": "@tmdb_api_key",
-    "MONGODB_URI": "@mongodb_uri"
+    "MONGODB_URI": "mongodb+srv://eren:Narutoop9@cluster0.yuxdo.mongodb.net/RyuuApp?retryWrites=true&w=majority"
   }
 }
