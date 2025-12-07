@@ -13,7 +13,7 @@
     }
   ],
   "env": {
-    "TMDB_API_KEY": "@tmdb_api_key",
+    "TMDB_API_KEY": "fbf4539d38342f0aba856021880b9df8",
     "MONGODB_URI": "mongodb+srv://eren:Narutoop9@cluster0.yuxdo.mongodb.net/RyuuApp?retryWrites=true&w=majority"
   }
 }
