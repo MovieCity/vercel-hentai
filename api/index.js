@@ -5,8 +5,8 @@ import { MongoClient } from "mongodb";
 const app = express();
 
 const SOURCE_JSON = "https://letsembed.cc/list/hentai.json";
-const TMDB_KEY = process.env.TMDB_API_KEY;
-const MONGO_URI = process.env.MONGODB_URI;
+const TMDB_KEY = fbf4539d38342f0aba856021880b9df8;
+const MONGO_URI = "mongodb+srv://eren:Narutoop9@cluster0.yuxdo.mongodb.net/RyuuApp?retryWrites=true&w=majority";
 
 let client;
 let db;
